@@ -1,2 +1,8 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# VS Code generated
+.vscode/
+
+# Data and user generated files
+results/
